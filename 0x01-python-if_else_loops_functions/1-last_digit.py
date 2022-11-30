@@ -3,7 +3,8 @@ import random
 number = random.randint(-10000, 10000)
 last_number = number % 10
 if number < 0:
-    last_number *= -1
+    last_number = number % -10
+    # add - to modulo 10 due to effect of modulo in -ve number
     str = "and is less than 6 and not 0"
 elif last_number < 6 and last_number != 0:
     str = "and is less than 6 and not 0"
