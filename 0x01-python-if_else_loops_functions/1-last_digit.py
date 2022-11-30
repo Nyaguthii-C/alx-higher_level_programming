@@ -11,4 +11,4 @@ elif last_number > 5:
     str = "and is greater than 5"
 else:
     str = "and is 0"
-print("Last digit of {0:d} is {1:d} {2}".format(number, last_number, str))
+print("Last digit of {0:d} is {1:d} {2:s}".format(number, last_number, str))
