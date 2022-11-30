@@ -11,4 +11,4 @@ elif last_number > 5:
     str = "and is greater than 5"
 else:
     str = "and is 0"
-print(f"Last digit of {number:d} is {last_number:d} {str}")
+print(f"Last digit of {number} is {last_number} {str}")
