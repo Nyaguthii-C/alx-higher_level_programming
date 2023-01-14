@@ -5,5 +5,6 @@
 
 
 def to_json_string(my_obj):
+    """ import json module and serialize my_obj """
     import json
     return json.dumps(my_obj)
