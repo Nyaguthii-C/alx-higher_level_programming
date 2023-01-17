@@ -1,10 +1,10 @@
 
 ## Project: 0x08-python-more_classes
-- ** Object Oriented Programming **
-- ** Class and Instance Attributes **
-- ** classmethods and staticmethods **
-- Properties vs Getters and Setters
-- str vs repr
+- **Object Oriented Programming**
+- **Class and Instance Attributes**
+- **classmethods and staticmethods**
+- **Properties vs Getters and Setters**
+- **str vs repr**
 ## Tasks
 - 0-rectangle.py - an empty class Rectangle that defines a rectangle
 - 1-rectangle.py - class Rectangle that defines a rectangle (based on 0-rectangle.py)
