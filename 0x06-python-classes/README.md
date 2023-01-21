@@ -1,6 +1,6 @@
 
 ## Project: 0x06-python-classes
-- Intro to Onject oriented programmming
+- Intro to Object oriented programmming
 - Python classes and objects
 - properties vs getters and setters
 ## Tasks
