@@ -6,10 +6,13 @@ import sys
 
 if __name__ == "__main__":
     save_to_json_file = __import__('5-save_to_json_file').save_to_json_file
-    """  import function to save arguments in list to file """
+    """  function to save arguments in list to file """
     load_from_json_file = \
         __import__('6-load_from_json_file').load_from_json_file
-    """ import function to to add all arguments to python list """
+    """
+    function to to add all arguments to python list
+    creates object from json file
+    """
     try:
         list = load_from_json_file("add_item.json")
     except FileNotFoundError:
