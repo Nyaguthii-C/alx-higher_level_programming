@@ -12,5 +12,5 @@
 - [0x08-python-more_classes](https://github.com/Nyaguthii-C/alx-higher_level_programming/tree/main/0x08-python-more_classes)- More python classes and Objects
 - [0x09-python-everything_is_object](https://github.com/Nyaguthii-C/alx-higher_level_programming/tree/main/0x09-python-everything_is_object) - objects in python
 - [0x0B. Python - Input/Output](https://github.com/Nyaguthii-C/alx-higher_level_programming/tree/main/0x0B-python-input_output) - opening, closing, reading and writing files in python, JSON, serialization, deserialization
--[0x0D-SQL_introduction](https://github.com/Nyaguthii-C/alx-higher_level_programming/tree/main/0x0D-SQL_introduction) - SQL introduction
-- [0x0E-SQL_more_queries](https://github.com/Nyaguthii-C/alx-higher_level_programming/tree/main/0x0E-SQL_more_queries) - SQL_more_queries 
+- [0x0D-SQL_introduction](https://github.com/Nyaguthii-C/alx-higher_level_programming/tree/main/0x0D-SQL_introduction) - SQL introduction
+- [0x0E-SQL_more_queries](https://github.com/Nyaguthii-C/alx-higher_level_programming/tree/main/0x0E-SQL_more_queries) - SQL more queries 
