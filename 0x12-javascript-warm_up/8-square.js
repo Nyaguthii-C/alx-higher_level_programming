@@ -10,4 +10,7 @@ for (let i = 0; i < size; i++) {
   }
   Xter += '\n';
 }
+if (isNaN(size)) {
+  console.log('Missing size');
+}
 console.log(Xter);
