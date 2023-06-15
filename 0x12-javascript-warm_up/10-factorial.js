@@ -6,9 +6,9 @@ function getfactorial (n) {
   } else if (isNaN(n)) {
     return 1;
   } else {
-   let  f = n * getfactorial(n - 1);
+    const f = n * getfactorial(n - 1);
+    return f;
   }
-  return f;
 }
 const factr = process.argv[2];
 const j = getfactorial(factr);
