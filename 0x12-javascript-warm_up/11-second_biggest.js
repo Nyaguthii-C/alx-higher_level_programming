@@ -12,7 +12,9 @@ if (args.length > 3) {
       myArgs.push(args[i]);
     }
   }
-  myArgs.sort();
-  const secLast = myArgs.slice(-2, -1);
-  console.log(secLast[0]);
+  /* sort array to return items in ascending order */
+  myArgs.sort(function (a, b) { return a - b; });
+  /* slice the array to ge last two items, returning the second biggest */
+  const secBig = myArgs.slice(-2, -1);
+  console.log(secBig[0]);
 }
