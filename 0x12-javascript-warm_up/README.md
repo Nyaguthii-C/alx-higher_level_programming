@@ -22,3 +22,7 @@
 - [11-second_biggest.js]() - script that searches the second biggest integer in the list of arguments
 - [12-object.js]() - script to replace the value 12 with 89
 - [13-add.js]() - a function that returns the addition of 2 integers
+- [100-let_me_const.js]() - a file that modifies the value of myVar to 333
+- [101-call_me_moby.js]() - a function that executes x times a function
+- [102-add_me_maybe.js]() - a function that increments and calls a function
+- [103-object_fct.js]() - update script by adding a new function incr that increments the integer value
