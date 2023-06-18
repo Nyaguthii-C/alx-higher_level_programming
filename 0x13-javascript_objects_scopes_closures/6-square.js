@@ -16,7 +16,7 @@ module.exports = class Square extends require('./4-rectangle.js') {
     } else {
       for (let i = 0; i < this.height; i++) {
         for (let j = 0; j < this.width; j++) {
-          XterC += 'c';
+          XterC += 'C';
         }
         console.log(XterC);
         XterC = '';
