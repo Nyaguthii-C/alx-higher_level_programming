@@ -1,4 +1,9 @@
-#!/usr/bin/bash
-# make a request to 0.0.0.0:5000/catch_me that causes the 
-# server to respond with message containing You got me!
-curl -sL -X PUT -H "Origin: HolbertonSchool" -d "user_id=98" 0.0.0.0:5000/catch_me
+#!/bin/bash
+
+response=$(curl -s -X POST 0.0.0.0:5000/catch_me)
+
+if [[ $response == *"You got me!"* ]]; then
+  printf "%s\n" "Server response: $response"
+else
+  printf "%s\n" "Failed to capture server response."
+fi
