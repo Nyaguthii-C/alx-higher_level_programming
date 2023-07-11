@@ -1,2 +1,2 @@
-Linear Complexity
-O(n)
+logarithmic , indicating a highly efficient search process
+O(log n)
