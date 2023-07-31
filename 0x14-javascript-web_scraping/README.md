@@ -3,6 +3,7 @@
 **Scripting**, **API**, **JavaScript**   
 ## Resources
 [How To Work with Files using the fs Module in Node.js](https://tutorialedge.net/nodejs/reading-writing-files-with-nodejs/)  
+[request module](https://github.com/request/request)
 
 ### Tasks
 - 0-readme.js - a script that reads and prints the content of a file using the fs module
