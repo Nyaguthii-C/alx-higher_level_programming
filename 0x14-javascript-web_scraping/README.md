@@ -2,7 +2,7 @@
 # Project: 0x14. JavaScript - Web scraping
 **Scripting**, **API**, **JavaScript**   
 ## Resources
-[How To Work with Files using the fs Module in Node.js](https://www.digitalocean.com/community/tutorials/how-to-work-with-files-using-the-fs-module-in-node-js)  
+[How To Work with Files using the fs Module in Node.js](https://tutorialedge.net/nodejs/reading-writing-files-with-nodejs/)  
 
 ### Tasks
 - 0-readme.js - a script that reads and prints the content of a file using the fs module
