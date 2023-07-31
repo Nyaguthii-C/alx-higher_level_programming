@@ -1,6 +1,6 @@
 #!/usr/bin/node
 // prints title of a Star Wars movie where episode number matches a given integer
-
+// Usage: ./4-starwars_count.js https://swapi-api.alx-tools.com/api/films/
 const request = require('request');
 const url = process.argv[2];
 
