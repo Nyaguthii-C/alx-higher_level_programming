@@ -1,7 +1,5 @@
 #!/usr/bin/node
-//reads and prints the content of a file
-//where the content of the file must be read in utf-8
-
+//writes a string to a file
 
 var fs = require("fs");
 var data = process.argv[3]
