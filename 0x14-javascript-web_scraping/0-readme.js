@@ -3,7 +3,7 @@
 //where the content of the file must be read in utf-8
 
 
-var fs = require("fs");
+var fs = require('fs');
 
 fs.readFile(process.argv[2], 'utf8', function(error, readData) {
   console.log(error || readData);
