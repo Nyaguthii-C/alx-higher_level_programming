@@ -36,6 +36,7 @@ case 3: append with negative number
 >>> my_list.append(-4)
 >>> my_list.append(-1)
 >>> my_list.append(-8)
+>>> my_list.append(34)
 >>> my_list.print_sorted()
-[-8, -4, -1, 1, 4, 2, 3, 5]
+[-8, -4, -1, 34]
 >>>
