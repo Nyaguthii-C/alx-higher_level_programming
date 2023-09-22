@@ -1,12 +1,12 @@
 test for 1-my_list.py
 ---------------------
-
+case 0: import
 >>> MyList = __import__('1-my_list').MyList
 >>>
 ---------------------------
->>> my_list = MyList()
+case 1: append to list
 
-append to list
+>>> my_list = MyList()
 >>> my_list.append(1)
 >>> my_list.append(4)
 >>> my_list.append(2)
@@ -19,3 +19,11 @@ append to list
 >>> print(my_list)
 [1, 4, 2, 3, 5]
 >>> 
+----------------------------
+case 2: empty list
+
+>>> a = []
+>>> my_list = MyList(a)
+>>> my_list.print_sorted()
+[]
+>>>
